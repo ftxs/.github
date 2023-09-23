@@ -1,9 +1,8 @@
 # frostx studios
 a company about developing software for desktop devices
 <br>
-![matrix](matrix.gif)
+<img src="https://media3.giphy.com/media/ieBWQkIVEELhbizGAp/giphy.gif">
 <br>
-matrix.gif :troll:
 
 owner discord status:
 <br>
